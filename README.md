@@ -1,1 +1,1 @@
-# Get-Clinic
+# Get-Clinics
